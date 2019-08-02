@@ -18,3 +18,13 @@ Initially, it seemed as if there was not much to go off of given the amount of N
 
 ![ProductCategoryByCountry.png](Images/ProductCategoryByCountry.png) ![ProductCountryDf.PNG](Images/ProductCountryDf.PNG)
 * I then compared the number of companies in and out of the US and created a DataFrame showcasing 
+* Even though Apparel & Jewelery, Food & Beverage, and Health & Medical were the most popular categories, they were among the smallest in percentages of companies hailing from outside the United States.
+* Instead, Diversified Financials, Energy, and Technology Hardware & Equipment were among the highest in international representation.
+
+### Brand Category
+![CompaniesVsBrandCategory.png](Images/CompaniesVsBrandCategory.png)
+* Alternatively, I took a look at the Brand Categories and found that there was an abundance of subcategories and decided to create broader categories instead.
+* After doing this I found that the majority of companies came from the Sports category along with Food & Drink and Art & Entertainment.
+
+![BrandCategoryByCountry.png](Images/BrandCategoryByCountry.png) ![BrandCountryDf.PNG](Images/BrandCountryDf.PNG)
+* 
