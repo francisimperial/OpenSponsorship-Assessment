@@ -12,7 +12,16 @@ I commented in every cell to describe each step of the process. Please let me kn
 Initially, it seemed as if there was not much to go off of given the amount of Null datapoints, however, I was able to find enough data to create an analysis. <br>
 
 ### Product Category
-![CompaniesVsProductCategory.png](Images/CompaniesVsProductCategory.png)
+<p align="center">
+  <img width="600" height="400" src=Images/CompaniesVsProductCategory.png>
+</p>
 * Found that the three most popular Product Categories were in Apparel & Jewelery, Food & Beverage, and Health & Medical.
-* This makes sense since Apparel, Food, and Health services are important components of the Sports Industry.
+* This makes sense since Apparel, Food, and Health services are important components of the Sports Industry. <br>
 
+<p align="center">
+  <img width="700" height="500" src=Images/ProductCategoryByCountry.png>
+</p>
+
+<p align="center">
+  <img width="500" height="600" src=Images/ProductCountryDf.PNG>
+</p>
