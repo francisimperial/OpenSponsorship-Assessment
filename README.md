@@ -1,7 +1,7 @@
 # OpenSponsorship Intern Assessment
 The main purpose of this analysis was to split the given data into two different subsets of data: 
 * Product Category
-* Brand Category
+* Brand Category <br> <br>
 Then from these subsets, I created visualizations using Matplotlib to showcase the number of companies in each product or brand category, as well as a group horizontal bar chart comparing the number of companies based in and out of the United States. <br>
 
 ## Steps in Data Cleansing and Creating Visualizations
