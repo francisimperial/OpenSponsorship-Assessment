@@ -27,4 +27,6 @@ Initially, it seemed as if there was not much to go off of given the amount of N
 * After doing this I found that the majority of companies came from the Sports category along with Food & Drink and Art & Entertainment.
 
 ![BrandCategoryByCountry.png](Images/BrandCategoryByCountry.png) ![BrandCountryDf.PNG](Images/BrandCountryDf.PNG)
-* 
+* I then took a closer look to find out that 27.27% of the companies in the Sports category were international, which was relatively on the high side compared to the other categories.
+* Among those categories that had a high percentage of international companies were Finance, Religion & Spirituality, and Technology & Computing.
+* This is mostly in line with the categories in my Product Category Analysis.
